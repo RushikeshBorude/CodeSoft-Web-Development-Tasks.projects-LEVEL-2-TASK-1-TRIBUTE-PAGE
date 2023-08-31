@@ -1,4 +1,4 @@
-![image](https://github.com/RushikeshBorude/CodeSoft-Web-Development-Tasks.projects-LEVEL-2-TASK-1-TRIBUTE-PAGE/assets/86228914/12c75a14-95b6-41f0-9194-450499e9f711)# CodeSoft-Web-Development-Tasks.projects-LEVEL-2-TASK-1-TRIBUTE-PAGE
+# CodeSoft-Web-Development-Tasks.projects-LEVEL-2-TASK-1-TRIBUTE-PAGE
 
 
 # here below live link view of this projects
